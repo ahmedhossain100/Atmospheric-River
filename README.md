@@ -6,3 +6,7 @@ Atmospheric River is a narrow band of water vapor flowing at a rapid speed in th
 
 #### Data Used
 Integrated Vapor Transport, Wind Speed, and Geopotential Height at the pressure level of 500 hPa from ECMWF ERA5 Reanalysis with an interval of 6 hours. 
+
+### Atmospheric River Plot
+![image](https://github.com/ahmedhossain100/Atmospheric-River/assets/72346575/1a697ca9-e967-4bd7-96f3-86ea12593c14)
+
